@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139518148500",
+    "project_id": "rhenix-41f66",
+    "storage_bucket": "rhenix-41f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139518148500:android:85cab05f5d74ee1f26d981",
+        "android_client_info": {
+          "package_name": "com.example.rhenixtask1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139518148500-7v245570b7desls79f2nns1db7i6gdds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmKqZwKE_br_nl96BqncGbg7AzEkj_uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139518148500-7v245570b7desls79f2nns1db7i6gdds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
